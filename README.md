@@ -1,0 +1,1 @@
+# Laravel 5 Dynamic pages by RTS
