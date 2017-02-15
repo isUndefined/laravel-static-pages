@@ -1,0 +1,16 @@
+{
+    "name": "rts/pages",
+    "description": "Laravel 5 Dynamic Pages by RTS",
+    "authors": [
+        {
+            "name": "Iurie",
+            "email": "iurie.nastasiu@rts.md"
+        }
+    ],
+	"require": {},
+    "autoload": {
+        "psr-4": {
+            "Rts\\Pages\\": "src/"
+        }
+    }
+}
